@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nishan01
+- 👋 Hi, I’m @nishan
 - 👀 I’m interested in ...Web Devlopment . UI/UX Designing . Front End Development . 
 - 🌱 I’m currently learning ...Backend as Well As Frontend. Full Stack Development .
 - 💞️ I’m looking to collaborate on ...
